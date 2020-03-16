@@ -1,6 +1,6 @@
 {
-  "name": "frontend",
-  "homepage": "https://AppertaFoundation.github.com/frontend",
+  "name": "covid-19-frontend-demo",
+  "homepage": "https://adabedi.github.com/covid-19-frontend-demo",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
